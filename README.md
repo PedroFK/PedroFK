@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Pedro Henrique</h1>
+<h1 align="center">Hi there 👋, I'm Pedro Kuhn</h1>
 <h3 align="center">Full Stack Software Developer | Laravel & JavaScript Enthusiast</h3>
 
 <p align="center">
