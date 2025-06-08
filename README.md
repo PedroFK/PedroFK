@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ---
@@ -31,16 +33,16 @@ I'm committed to writing clean code, following SOLID principles, and building so
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrohenrique&show_icons=true&theme=radical" alt="Pedro's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrique&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroFK&show_icons=true&theme=radical" alt="Pedro's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFK&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)
-- 📬 pdro,dev97@gmail.com
+- 💼 [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/pedro-kuhn-010b7522b/))
+- 📬 pdro.dev97@gmail.com
 <!--
 - 💻 [Portfolio](https://seu-portfolio.dev)
 -->
