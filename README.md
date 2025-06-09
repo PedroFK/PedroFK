@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Pedro Kuhn</h1>
-<h3 align="center">Full Stack Software Developer | Laravel & JavaScript Enthusiast</h3>
+<h3 align="center">Full Stack Software Developer | Laravel & JavaScript</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white"/>
