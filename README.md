@@ -30,7 +30,7 @@ I'm Pedro Henrique, a passionate Full Stack Developer who thrives on creating sc
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/pedro-kuhn-010b7522b/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-kuhn-010b7522b/)
 - 📬 pdro.dev97@gmail.com
 <!--
 - 💻 [Portfolio](https://seu-portfolio.dev)
