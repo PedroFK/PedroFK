@@ -13,13 +13,13 @@
 
 ### 🧑‍💻 About Me
 
-I'm Pedro Henrique, a passionate Full Stack Developer who thrives on creating scalable, maintainable, and high-performance web applications. I specialize in **Laravel**, **React**, and **Angular**, and have experience leading technical solutions from backend architecture to frontend UX.
+I'm Pedro Henrique, a passionate Full Stack Developer who thrives on creating scalable, maintainable, and high-performance web applications. I specialize in **Laravel**, **React**, **Angular** and **Node**, and have experience leading technical solutions from backend architecture to frontend UX.
 
 ---
 
 ### 🚀 Technologies & Tools
 
-- ⚙️ **Backend:** PHP, Laravel, MySQL, PostgreSQL, REST, SOLID  
+- ⚙️ **Backend:** PHP, Laravel, Node, MySQL, PostgreSQL, REST, SOLID  
 - 💻 **Frontend:** React, Angular, Vue.js, TypeScript, TailwindCSS, Bootstrap  
 - 🧠 **AI & LLMs:** Prompt Engineering, LLM APIs, OpenAI, Google Cloud Vision
 - 🧪 **Testing & CI/CD:** PHPUnit, Vitest, GitHub Actions, Bitbucket Pipelines  
