@@ -20,12 +20,12 @@ I'm Pedro Henrique, a passionate Full Stack Developer who thrives on creating sc
 
 ### 🚀 Technologies & Tools
 
-- ⚙️ **Backend:** PHP, Laravel, Node, MySQL, PostgreSQL, REST, SOLID  
+- ⚙️ **Backend:** PHP, Laravel, Node, MySQL, PostgreSQL, REST, SOLID principles  
 - 💻 **Frontend:** React, Angular, Vue.js, TypeScript, TailwindCSS, Bootstrap  
-- 🧠 **AI & LLMs:** Prompt Engineering, LLM APIs, OpenAI, Google Cloud Vision
-- 🧪 **Testing & CI/CD:** PHPUnit, Vitest, GitHub Actions, Bitbucket Pipelines  
-- ☁️ **Cloud:** AWS, Laravel Media Library, Lazy Loading  
-- 🔁 **Version Control:** Git, GitHub, Bitbucket  
+- 🧠 **AI & LLMs:** OpenAI APIs, Google Cloud Vision  
+- 🧪 **Testing & CI/CD:** PHPUnit, Vitest, GitHub Actions, Bitbucket Pipelines 
+- ☁️ **Cloud:** AWS  
+- 🔁 **Version Control:** Git (GitHub, Bitbucket)  
 
 ---
 
